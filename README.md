@@ -7,6 +7,8 @@
 ## Contents at a Glance.
 * [About.](#about)
 * [Documentation.](#documentation)
+* [Useful URL's.](#useful-urls)  
+* [Run docker container.](#run-docker-container)  
 * [Help.](#help)
 
 
@@ -31,6 +33,13 @@
 * [What is the difference between Unidirectional and Bidirectional JPA and Hibernate associations?](https://stackoverflow.com/questions/5360795/what-is-the-difference-between-unidirectional-and-bidirectional-jpa-and-hibernat/48681422#48681422)
 * [14 High-Performance Java Persistence Tips.](https://vladmihalcea.com/14-high-performance-java-persistence-tips/)
 * []()
+
+
+
+
+
+## Run docker container.
+`docker run --rm -d --name postgres -p 5432:5432 -e POSTGRES_PASSWORD=1234 -e POSTGRES_USER=developer -e POSTGRES_DB=testDB postgres`
 
 
 
