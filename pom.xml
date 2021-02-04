@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.trl</groupId>
-	<artifactId>jpa-and-hibernate-relationship</artifactId>
+	<artifactId>table-relationships-in-jpa-and-hibernate</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>jpa-and-hibernate-relationship</name>
+	<name>table-relationships-in-jpa-and-hibernate</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
